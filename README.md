@@ -1,2 +1,17 @@
-# szhsp-front
-数智化监管服务系统-前端
+![1](https://github.com/gangzichulaizhadao/equityAccessInvestigation/blob/main/src/assets/1.png)
+
+
+
+![2](https://github.com/gangzichulaizhadao/equityAccessInvestigation/blob/main/src/assets/2.png)
+
+
+
+![3](https://github.com/gangzichulaizhadao/equityAccessInvestigation/blob/main/src/assets/3.png)
+
+
+
+![4](https://github.com/gangzichulaizhadao/equityAccessInvestigation/blob/main/src/assets/4.png)
+
+
+
+![5](https://github.com/gangzichulaizhadao/equityAccessInvestigation/blob/main/src/assets/5.png)
